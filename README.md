@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Jay 👋
 
-<!--
-**jayamartinez/jayamartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer interested in **full-stack, desktop, systems, and developer tooling**. I like building fast, practical software, especially when existing tools don't do what I want.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,java" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi" />
+</p>
+
+`shadcn/ui` · `Tauri`
+
+**Databases & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,docker,vercel" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell,pnpm,linux,windows" />
+</p>
+
+`FFmpeg`
+
+## 🚀 Projects
+
+### [fetch](https://github.com/jayamartinez/fetch)
+
+Self-hostable toolkit for downloading and processing YouTube videos, audio, transcripts, thumbnails, and metadata.
+
+`Next.js` · `TypeScript` · `Python` · `FastAPI` · `FFmpeg` · `Docker`
+
+### insyght 🔒
+
+Desktop VALORANT companion for match history, player profiles, statistics, ranks, agents, and performance analysis.
+
+`Next.js` · `TypeScript` · `Tauri` · `Rust`
