@@ -4,32 +4,18 @@ Software developer interested in **full-stack, desktop, systems, and developer t
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages**<br>
+<img height="32" src="https://skillicons.dev/icons?i=ts,js,py,rust,java" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,java" />
-</p>
-
-**Frameworks & Libraries**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi" />
-</p>
-
+**Frameworks & Libraries**<br>
+<img height="32" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi" /><br>
 `shadcn/ui` · `Tauri`
 
-**Databases & Infrastructure**
+**Databases & Infrastructure**<br>
+<img height="32" src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,docker,vercel" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,docker,vercel" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell,pnpm,linux,windows" />
-</p>
-
+**Tools & Platforms**<br>
+<img height="32" src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell,pnpm,linux,windows" /><br>
 `FFmpeg`
 
 ## 🚀 Projects
