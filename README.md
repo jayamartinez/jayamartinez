@@ -1,6 +1,8 @@
-# Hey, I'm Jay 👋
+# about
 
-Software developer interested in **full-stack, desktop, systems, and developer tooling**. I like building fast, practical software, especially when existing tools don't do what I want.
+i build software and random tools that i think would be useful.
+
+mostly working with web/desktop apps, dev tools, and whatever else i find interesting. a lot of my projects come from wanting something to work differently and deciding to just build it myself.
 
 ## 🛠️ Tech Stack
 
