@@ -1,8 +1,8 @@
 # about
 
-i build software and random tools that i think would be useful.
+building software i actually care about
 
-mostly working with web/desktop apps, dev tools, and whatever else i find interesting. a lot of my projects come from wanting something to work differently and deciding to just build it myself.
+mostly working with web/desktop apps, dev tools, and whatever else i find interesting. a lot of my projects start with wanting something to work differently and deciding to just build it myself.
 
 ## 🛠️ Tech Stack
 
@@ -18,15 +18,14 @@ mostly working with web/desktop apps, dev tools, and whatever else i find intere
 
 **Tools & Platforms**<br>
 <img height="32" src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell,pnpm,linux,windows" /><br>
-`FFmpeg`
 
 ## 🚀 Projects
 
-### [fetch](https://github.com/jayamartinez/fetch)
+relay
 
-Self-hostable toolkit for downloading and processing YouTube videos, audio, transcripts, thumbnails, and metadata.
+End-to-end encrypted browser tab and window sync with real-time updates, offline support, and device pairing.
 
-`Next.js` · `TypeScript` · `Python` · `FastAPI` · `FFmpeg` · `Docker`
+`TypeScript` · `React` · `Cloudflare Workers` · `Durable Objects`
 
 ### insyght 🔒
 
