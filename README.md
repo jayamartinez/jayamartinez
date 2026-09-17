@@ -21,7 +21,7 @@ mostly working with web/desktop apps, dev tools, and whatever else i find intere
 
 ## 🚀 Projects
 
-relay
+[relay](https://github.com/jayamartinez/relay)
 
 End-to-end encrypted browser tab and window sync with real-time updates, offline support, and device pairing.
 
