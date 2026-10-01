@@ -6,17 +6,21 @@ mostly working with web/desktop apps, dev tools, and whatever else i find intere
 
 ## projects
 
+### [JAM Code](https://github.com/jayamartinez/jam-code)
+
+Open-source desktop workspace for coding agents with Claude Code and Codex, persistent conversations, terminals, browser, files, Git review, and tiled workspaces.
+
+[`code.jaym.tech`](https://code.jaym.tech)
+
+`TypeScript` · `React` · `Tauri` · `Rust` · `SQLite`
+
 ### [relay](https://github.com/jayamartinez/relay)
 
 End-to-end encrypted browser tab and window sync with real-time updates, offline support, and device pairing.
 
+[`relay.jaym.tech`](https://relay.jaym.tech)
+
 `TypeScript` · `React` · `Cloudflare Workers` · `Durable Objects`
-
-### insyght 🔒
-
-Desktop VALORANT companion for match history, player profiles, statistics, ranks, agents, and performance analysis.
-
-`Next.js` · `TypeScript` · `Tauri` · `Rust`
 
 ## tech stack
 
